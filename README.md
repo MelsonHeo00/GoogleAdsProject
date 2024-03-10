@@ -24,3 +24,24 @@ This project utilizes a variety of tools and technologies to extract, clean, ana
 ### Other Tools
 
 - **Google Ads Transparency Center Presentation.pdf**: A PDF document containing the presentation slides that outline the project's objectives, data sources, methodology, findings, and recommendations.
+
+## Getting Started
+
+To get started with this project, you'll need to have access to the Google Ads Transparency Center data and the necessary tools and technologies mentioned above installed on your local machine or development environment.
+
+1. Clone this repository to your local machine.
+2. Install the required Python packages and dependencies specified in the project's `requirements.txt` file (if available).
+3. Set up your development environment with the necessary tools and technologies (e.g., SQL/BigQuery, Python/Jupyter Notebook, Excel, Tableau).
+4. Follow the project's documentation and code to understand the data extraction, cleaning, analysis, and visualization processes.
+
+## Contributing
+
+Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+This project was made possible thanks to the data provided by the Google Ads Transparency Center. We appreciate their efforts in promoting transparency and trust in the digital advertising ecosystem.
